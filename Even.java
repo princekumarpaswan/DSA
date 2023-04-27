@@ -16,5 +16,6 @@ public class Even {
             System.out.println("The given number is odd " + num);
         }
 
+        in.close();
     }
 }

@@ -9,5 +9,7 @@ public class MAin {
 
         int sum = a + b;
         System.out.println("sum" + sum);
+        input.close();
     }
+
 }
