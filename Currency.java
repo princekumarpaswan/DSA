@@ -12,5 +12,6 @@ public class Currency {
             double fin = (rs / 81);
             System.out.println("The final amout is = " + fin);
         }
+        in.close();
     }
 }
