@@ -8,6 +8,9 @@ public class Wile {
             count++;
         }
 
+
+
+
         // for loop
         for (int cot = 1; cot != 5; cot++) {
             System.out.println("For loop" + cot);
