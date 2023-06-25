@@ -1,5 +1,4 @@
 import java.util.Scanner;
-//here 
 public class MAin {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
