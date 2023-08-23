@@ -11,6 +11,8 @@ public class Even {
 
         int num = in.nextInt();
         if ((num % 2) == 0) {
+
+            
             System.out.println("The given number is even " + num);
         } else {
             System.out.println("The given number is odd " + num);
