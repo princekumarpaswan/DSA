@@ -8,6 +8,8 @@ public class palindron {
         System.out.println("Enter any number: ");
         number = s.nextInt();
         x = number;
+
+        
         while (number > 0) {
             x = number % 10;
             System.out.println(x);
